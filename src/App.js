@@ -1,10 +1,14 @@
+import React, { Component } from "react";
+
 import logo from "./logo.svg";
 import "./App.css";
 
-function App() {
-  return (
+class App extends Component {
+  render() {
+    return (
 
-  );
+    );
+  }
 }
 
 export default App;
